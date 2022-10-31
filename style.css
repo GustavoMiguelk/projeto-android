@@ -47,7 +47,7 @@ header{
 
 header > h1 {
     font-size: 3rem;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 header > p {
@@ -120,7 +120,7 @@ main a:hover {
 
 .imagens {
     display: block;
-   margin: auto;
+    margin: auto;
     width: 100%;
     padding: 15px 0px 15px 0px;
 }
@@ -171,8 +171,8 @@ aside > h3 {
 aside ul {
     list-style-type:'\2714\00A0\00A0';
     list-style: inside;
-    columns: 2;
 }
+
 
 #conteudo {
     padding: 20px;
