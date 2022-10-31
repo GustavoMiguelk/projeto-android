@@ -40,14 +40,15 @@ header{
     text-justify: auto;
     text-align: center;
     margin: auto;
-    padding: 30px 0px 30px 0px;
+    padding: 30px 0px 35px 0px;
     height: 200px;
     color: white;
 }
 
 header > h1 {
     font-size: 3rem;
-    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 header > p {
@@ -57,6 +58,7 @@ header > p {
     text-align: center;
     padding-right: 20px;
     padding-left: 20px;
+    padding-bottom: 40px;
 }
 
 
